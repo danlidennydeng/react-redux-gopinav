@@ -23,4 +23,10 @@ React-redux is a library that provides bindings to use React and Redux together 
 
 ----------------------------------------------------------------------------------------------------
 
+Lesson 19, React Redux + Hooks
 
+* Action creators, reducers, provide the store and connect the components.
+* Components can access state and dispatch actions
+* React Hooks works since React Redux v7.1
+* subscribe to store and dispatch actions without connect()
+* hooks look like much simpler, however, it comes with a warning.
