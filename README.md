@@ -34,4 +34,16 @@ Lesson 19, React Redux + Hooks
 
 ------------------------------------------------------------------------------------------------------
 
+Lesson 26, 27, mapStateToProps, mapDispatchToProps
 
+How are they useful? Skiped.
+-----------------------------------------------------------------------------------------------------
+
+Lesson 29
+
+Compiled with warnings.
+
+src\components\UsersContainer.js
+  Line 8:6:  React Hook useEffect has a missing dependency: 'fetchUsers'. Either include it or remove the dependency array. If 'fetchUsers' changes too often, find the parent component that defines it and wrap that definition in useCallback  react-hooks/exhaustive-deps
+
+# got above error message when compiled, however, the page works. would this caused by different version of Redux or React?
